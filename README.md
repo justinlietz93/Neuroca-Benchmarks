@@ -41,8 +41,8 @@ Our benchmarks revealed significant differences between the memory systems:
 | Task-Oriented | 62% accuracy | 58% accuracy | Neuroca slightly better question answering |
 | Memory Pressure | 5,000+ records, 0 errors | 0 records, immediate error | Neuroca's self-maintenance critical |
 
-To see what ~2,600 tokens looks like visit the [Token Count Example](Neuroca-Benchmarks/agno_vs_neuroca_bench/token_count.txt).<br>
-For detailed results, see the [Executive Summary](Neuroca-Benchmarks/agno_vs_neuroca_bench/benchmark_results/executive_summary.md).
+To see what ~2,600 tokens looks like visit the [Token Count Example](Neuroca-Agno-Benchmarks/agno_vs_neuroca_bench/token_count.txt).<br>
+For detailed results, see the [Executive Summary](Neuroca-Agno-Benchmarks/agno_vs_neuroca_bench/benchmark_results/executive_summary.md).
 
 ## Why Choose Neuroca?
 
