@@ -8,7 +8,7 @@ A comprehensive benchmark suite for comparing Neuroca and Agno memory systems ac
 
 This repository contains a suite of benchmarks designed to evaluate and compare the performance characteristics of Neuroca and Agno memory systems. The benchmarks cover various aspects including basic operations, LLM integration, memory retention, task performance, and long-term stability under memory pressure.
 
-![Memory Pressure Benchmark](Neuroca-Agno-Benchmarks\agno_vs_neuroca_bench\benchmark_results\neuroca_pressure_metrics.png)
+![Memory Pressure Benchmark](Neuroca-Agno-Benchmarks/agno_vs_neuroca_bench/benchmark_results/neuroca_pressure_metrics.png)
 
 ## Key Features
 
