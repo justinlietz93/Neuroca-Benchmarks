@@ -1,0 +1,7 @@
+.venv
+.env
+dataset.jsonl
+*.log
+*.csv
+*.pyc
+__pycache__
